@@ -1,0 +1,21 @@
+{
+  "name": "03_watcherCard",
+  "homepage": "https://github.com/mbetioli/angular",
+  "authors": [
+    "Your Name <you@example.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4"
+  }
+}
